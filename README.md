@@ -1,15 +1,71 @@
-<h1 align="center">Hi 👋, I'm Syed Noman Hussain</h1>
-<h3 align="center">A passionate tech enthusiast from India.</h3>
+# Hi, I'm Syed Noman Hussain 👋
 
-- 🌱 I’m currently learning **Machine Learning**
+### B.Tech ECE Student | Aspiring Full Stack Java Developer
 
-- 📫 How to reach me **syednoman774@gmail.com**
+I'm a final-year Electronics and Communication Engineering student with a strong interest in software development. I enjoy building practical applications, solving coding problems, and learning modern backend and frontend technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed-noman-hussain-44551a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-noman-hussain-44551a267/" height="30" width="40" /></a>
-<a href="https://kaggle.com/syednomanhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syednomanhussain" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 B.Tech in Electronics and Communication Engineering
+- 💻 Learning Full Stack Java Development
+- 🌱 Interested in Backend Development, Web Development, and Software Engineering
+- 🧩 Regularly practicing Data Structures and Algorithms
+- 📍 Telangana, India
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Django
+- Learning Spring Boot
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+## 📚 Currently Learning
+
+- Spring Boot
+- REST APIs
+- Hibernate
+- Full Stack Java
+- System Design Fundamentals
+
+## 🎯 Goals
+
+- Improve problem-solving skills
+- Build production-ready applications
+- Contribute to open-source projects
+- Start a software engineering career
+
+## 📈 Coding
+
+- Solving Data Structures and Algorithms problems regularly
+- Strengthening Object-Oriented Programming concepts
+- Learning clean code and software development best practices
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/syed-noman-hussain-44551a267/
+- GitHub: https://github.com/syed-noman04/
+- LeetCode: https://leetcode.com/u/User_072004/
+- Email: syednoman774@gmail.com
+
+---
+
+"Keep learning. Keep building."
