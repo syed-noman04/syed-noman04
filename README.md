@@ -16,7 +16,6 @@ I'm a final-year Electronics and Communication Engineering student with a strong
 
 ### Languages
 - Java
-- Python
 - JavaScript
 - SQL
 
@@ -26,7 +25,6 @@ I'm a final-year Electronics and Communication Engineering student with a strong
 - Tailwind CSS
 
 ### Backend
-- Django
 - Learning Spring Boot
 
 ### Database
